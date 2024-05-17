@@ -36,3 +36,77 @@
     transform: rotate(360deg);
   }
 }
+
+
+.done{
+  color: red;
+}
+
+.do{
+  color: blue;
+}
+
+.nav{
+  color: red;
+  background-color: #61dafb;
+  height: 90px;
+}
+
+.left{
+  color:blue;
+  background-color: aliceblue;
+  height: 580px;
+  width: 250px;
+  align-content: center;
+}
+.right{
+  color:greenyellow;
+  height: 580px;
+  width: 518px;
+  background-color: grey;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+ 
+
+
+  
+}
+
+.top{
+  color:bisque;
+  background-color: pink;
+  height: 170px;
+  width: 170px;
+  margin: 20px;
+  align-content: center;
+}
+
+.bottom{
+  color: rgb(12, 18, 18);
+  background-color: yellow;
+  
+  height: 170px;
+  width: 170px;
+  align-content: center;
+}
+
+.main{
+  background-color: #fb6161;
+ height: 580px;
+ display: flex;
+ flex-direction: row;
+ align-items: center;
+
+
+}
+
+.green{
+  color: black;
+  background-color: green;
+}
+.red{
+  color:black;
+  background-color: red;
+}
